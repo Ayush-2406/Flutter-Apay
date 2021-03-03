@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "paymentappa6c51aa3": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
